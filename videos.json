@@ -1,0 +1,27 @@
+{
+  "movies": [
+    {
+      "title": "Testmovie",
+      "link": "https://mega.nz/embed/YRUyAaoJ#t-ieHFD-o9KSAW7-G19WjZP5UkkH3BQ-v7zfHXi5dSA"
+    },
+    {
+      "title": "Inception",
+      "link": "https://mega.nz/embed/sJEUyBwB#A_RQ1il0UR3nnajAZOaE0LeW29foVTVTSdec9dsh2NI"
+    }
+  ],
+  "tv_shows": [
+    {
+      "title": "Test1",
+      "episodes": [
+        {
+          "episode_title": "Episode01",
+          "link": "https://mega.nz/embed/BRFGTB7b#jOf8MZj4nZmBwmqFciUh5eUiDJEM6W-vX25pGFZH9zg"
+        },
+        {
+          "episode_title": "Episode02",
+          "link": "https://mega.nz/embed/AF8UXbCT#r0hrm66p66zg8loWE1aifHWUE2Cy3PSVnXgCFbZ8akk"
+        }
+      ]
+    }
+  ]
+}
